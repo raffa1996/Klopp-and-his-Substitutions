@@ -38,6 +38,91 @@ button.button:hover span:after {
   opacity: 1;
   right: 0;
 }
+body {font-family: Arial, Helvetica, sans-serif;}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+}
+
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+
+.modal-content, #caption {    
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
 </style>
 <button style="margin-right:10px; margin-left:170px" onclick="window.location.href='https://raffa1996.github.io/5yards5feet'" class="button"><span>Home </span></button> |  <button style="margin-left:10px; margin-right:10px" onclick="window.location.href='https://raffa1996.github.io/Apps'" class="button"><span>Apps </span></button> | 
 <button style="margin-left:10px" onclick="window.location.href='https://raffa1996.github.io/Projects'" class="button"><span>Projects </span></button><br>
@@ -45,8 +130,35 @@ button.button:hover span:after {
  
 When Liverpool played Chelsea at Anfield which ended 1-1, Jurgen Klopp made some comments in the post match interview that caused a little bit of stir in the English press. The gist being that referee Micheal Oliver didn’t allowed Klopp to make a substitution and soon after that Willian scored in the 85th minute.<br>
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/kloppoliver.jpg?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/kloppoliver.jpg?raw=true" alt="profilepic"/>
   </p> 
+  <div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+    modal.style.display = "none";
+}
+</script>
 <br>
 But in general Klopp Substitution Strategy is quite different from other top 6 managers. Klopp believes in his attacking style of play and tries to alter the starting eleven when it reaches a point where his starting eleven needs something different or just some fresh legs. 
 Klopp uses all 3 substitutes available quite often as his attacking style of is quite demanding and he needs his players to be ready for the next game.  
