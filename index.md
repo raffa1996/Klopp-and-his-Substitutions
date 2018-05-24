@@ -6,7 +6,8 @@ When Liverpool played Chelsea at Anfield which ended 1-1, Jurgen Klopp made some
   </p> 
 <br>
 But in general Klopp Substitution Strategy is quite different from other top 6 managers. Klopp believes in his attacking style of play and tries to alter the starting eleven when it reaches a point where his starting eleven needs something different or just some fresh legs. 
-Klopp uses all 3 substitutes available quite often as his attacking style of is quite demanding and he needs his players to be ready for the next game.<br>
+Klopp uses all 3 substitutes available quite often as his attacking style of is quite demanding and he needs his players to be ready for the next game.  
+<br>
 <p align="center">
   <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/index.png?raw=true" alt="profilepic"/>
   </p> 
@@ -125,7 +126,7 @@ plt.show()
 ```
 
 ### Unlucky Substitution
-Unlucky Substitutions basically means those substitutions whose presence either makes a negative impact on the score line or brings a bad luck factor. Though it may sound as a silly term in terms of football but luck factor does make a difference on the football pitch.  
+Unlucky Substitutions basically means those substitutions whose presence either makes a negative impact on the score line or brings a bad luck factor. Though it may sound as a silly term in terms of football but luck factor does make a difference on the football pitch.    
 <p align="center">
   <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/unluckysubs.png?raw=true" alt="profilepic"/>
   </p>
