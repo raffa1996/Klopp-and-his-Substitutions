@@ -144,11 +144,9 @@ var modal = document.getElementById('myModal');
 // Get the image and insert it inside the modal - use its "alt" text as a caption
 var img = document.getElementById('myImg');
 var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -164,7 +162,7 @@ But in general Klopp Substitution Strategy is quite different from other top 6 m
 Klopp uses all 3 substitutes available quite often as his attacking style of is quite demanding and he needs his players to be ready for the next game.  
 <br>
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/index.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/index.png?raw=true" alt="profilepic"/>
   </p> 
 <br>
 ```python
@@ -195,7 +193,7 @@ plt.show()
 One of things which have gone unnoticed by many is that Kloppo has changed his Substitution strategy in situations where team has to defend the three points rather than playing the attacking style football till the last minute. Jose Mourinho is widely criticized for his defensive style of play but one thing he is very good in making those defensive substitutions which basically are meant to kill the game and get all 3 points in the bag. Last season (2016/17)  Klopp was more stubborn in making a defensive change while defending a single goal lead as he relied on too much on his attacking ideology.
 
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/2016-17.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/2016-17.png?raw=true" alt="profilepic"/>
   </p> 
 <br>
 ```python
@@ -219,7 +217,7 @@ plt.show()
 ```
 But this season (2017/18) he has improved in this area by throwing in more defenders while defending a single goal lead. 
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/2017-18.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/2017-18.png?raw=true" alt="profilepic"/>
   </p> 
 <br>
 ```python
@@ -244,7 +242,7 @@ plt.show()
 This season Klopp has made the most substitution in this 2.5 year reign. One of the reasons is that is obviously Liverpool is involved in more than 2 competitions this season and other that Klopp has a more variety in selecting his starting 11. But one of the reasons why Klopp is a fan favorite and has a very good relationship with his players as well as ex players is that the trust level. 
 
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/allsubs.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/allsubs.png?raw=true" alt="profilepic"/>
   </p> 
 <br>
 ```python
@@ -265,7 +263,7 @@ Most of his substitutions are being made after 75th minute as he believes in his
 ### Lucky Substitutions 
 Lucky Substitutions basically means those substitutions whose presence either makes a positive impact on the score line or brings a good luck factor. Though it may sound as a silly term in terms of football but luck factor does make a difference on the football pitch.  
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/luckysubs.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/luckysubs.png?raw=true" alt="profilepic"/>
   </p> 
 <br>
 ```python
@@ -283,7 +281,7 @@ plt.show()
 ### Unlucky Substitution
 Unlucky Substitutions basically means those substitutions whose presence either makes a negative impact on the score line or brings a bad luck factor. Though it may sound as a silly term in terms of football but luck factor does make a difference on the football pitch.    
 <p align="center">
-  <img src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/unluckysubs.png?raw=true" alt="profilepic"/>
+  <img id="myImg" src = "https://github.com/raffa1996/Klopp-and-his-Substitutions/blob/master/Asset/unluckysubs.png?raw=true" alt="profilepic"/>
   </p>
 ```python
 import pandas as pd
