@@ -39,7 +39,7 @@ button.button:hover span:after {
   right: 0;
 }
 </style>
-<button style="margin-right:10px; margin-left:170px" onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button style="margin-left:10px; margin-right:10px" onclick="window.location.href='https://raffa1996.github.io/Apps'" class="button"><span>Apps </span></button> | 
+<button style="margin-right:10px; margin-left:170px" onclick="window.location.href='https://raffa1996.github.io/5yards5feet'" class="button"><span>Home </span></button> |  <button style="margin-left:10px; margin-right:10px" onclick="window.location.href='https://raffa1996.github.io/Apps'" class="button"><span>Apps </span></button> | 
 <button style="margin-left:10px" onclick="window.location.href='https://raffa1996.github.io/Projects'" class="button"><span>Projects </span></button><br>
 ## Klopp and his Substitutions 
  
