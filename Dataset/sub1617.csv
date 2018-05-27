@@ -1,0 +1,98 @@
+SNO,HTEAM,ATEAM,PLACE,SUBIN,SUBOUT,MINUTE,LIVSCOBF,OPPSCOBF,LIVSCOAF,OPPSCOAF,YC,RC,GS,A,OG,SUBINPOS,SUBOUTPOS
+1,LIVERPOOL,ARSENAL,A,Can,Coutinho,70,4,2,4,3,0,0,0,0,0,Midfielder,Attacker
+2,LIVERPOOL,ARSENAL,A,Origi,Lallana,76,4,3,4,3,0,0,0,0,0,Attacker,Midfielder
+3,LIVERPOOL,ARSENAL,A,Stewart,Wijnaldum,88,4,3,4,3,0,0,0,0,0,Midfielder,Midfielder
+4,LIVERPOOL,BURNLEY,A,Origi,Sturridge,65,0,2,0,2,0,0,0,0,0,Attacker,Attacker
+5,LIVERPOOL,BURNLEY,A,Moreno,Milner,77,0,2,0,2,0,0,0,0,0,Defender,Midfielder
+6,LIVERPOOL,BURNLEY,A,Grujic,Lallana,78,0,2,0,2,0,0,0,0,0,Midfielder,Attacker
+7,LIVERPOOL,TOTTENHAM,A,Origi,Coutinho,69,1,0,1,1,0,0,0,0,0,Attacker,Attacker
+8,LIVERPOOL,TOTTENHAM,A,Sturridge,Mane,88,1,1,1,1,0,0,0,0,0,Attacker,Midfielder
+9,LIVERPOOL,TOTTENHAM,A,Stewart,Lallana,94,1,1,1,1,0,0,0,0,0,Midfielder,Attacker
+10,LIVERPOOL,LEICESTER,H,Coutinho,Sturridge,76,3,1,4,1,0,0,0,0,0,Attacker,Midfielder
+11,LIVERPOOL,LEICESTER,H,Stewart,Wijnaldum,76,3,1,4,1,0,0,0,0,0,Midfielder,Attacker
+12,LIVERPOOL,LEICESTER,H,Moreno,Mane,93,4,1,4,1,0,0,0,0,0,Defender,Attacker
+13,LIVERPOOL,CHELSEA,A,Origi,Sturridge,57,2,0,2,0,0,0,0,0,0,Attacker,Attacker
+14,LIVERPOOL,CHELSEA,A,Lucas,Coutinho,82,2,1,2,1,1,0,0,0,0,Midfielder,Midfielder
+15,LIVERPOOL,CHELSEA,A,Stewart,Wijnaldum,90,2,1,2,1,0,0,0,0,0,Midfielder,Midfielder
+16,LIVERPOOL,HULL CITY,H,Sturridge,Lallana,69,4,1,5,1,0,0,0,0,0,Attacker,Midfielder
+17,LIVERPOOL,HULL CITY,H,Can,Henderson,74,5,1,5,1,0,0,0,0,0,Midfielder,Attacker
+18,LIVERPOOL,HULL CITY,H,Grujic,Coutinho,74,5,1,5,1,0,0,0,0,0,Midfielder,Midfielder
+19,LIVERPOOL,SWANSEA,A,Sturridge,Lallana,23,0,1,2,1,1,0,0,0,0,Attacker,Midfielder
+20,LIVERPOOL,SWANSEA,A,Can,Wijnaldum,85,2,1,2,1,0,0,0,0,0,Midfielder,Attacker
+21,LIVERPOOL,SWANSEA,A,Origi,Firmino ,85,2,1,2,1,0,0,0,0,0,Attacker,Attacker
+22,LIVERPOOL,MANCHESTER UNITED,H,Lallana,Sturridge,60,0,0,0,0,0,0,0,0,0,Midfielder,Attacker
+23,LIVERPOOL,MANCHESTER UNITED,H,Origi,Firmino ,85,0,0,0,0,0,0,0,0,0,Attacker,Midfielder
+24,LIVERPOOL,MANCHESTER UNITED,H,Moreno,Milner,86,0,0,0,0,0,0,0,0,0,Defender,Midfielder
+25,LIVERPOOL,WEST BROMWICH,H,Wijnaldum,Lallana,79,2,0,2,1,0,0,0,0,0,Midfielder,Attacker
+26,LIVERPOOL,WEST BROMWICH,H,Lucas,Coutinho,88,2,1,2,1,0,0,0,0,0,Midfielder,Attacker
+27,LIVERPOOL,WEST BROMWICH,H,Origi,Mane,91,2,1,2,1,0,0,0,0,0,Attacker,Attacker
+28,LIVERPOOL,CRYSTAL PALACE,A,Wijnaldum,Lallana,76,4,2,4,2,0,0,0,0,0,Midfielder,Midfielder
+29,LIVERPOOL,CRYSTAL PALACE,A,Origi,Coutinho,89,4,2,4,2,0,0,0,0,0,Attacker,Attacker
+30,LIVERPOOL,CRYSTAL PALACE,A,Klavan,Mane,92,4,2,4,2,0,0,0,0,0,Defender,Attacker
+31,LIVERPOOL,WATFORD,H,Wijnaldum,Mane,63,5,1,6,1,1,0,1,0,0,Midfielder,Attacker
+32,LIVERPOOL,WATFORD,H,Sturridge,Lallana,71,5,1,6,1,0,0,0,0,0,Attacker,Midfielder
+33,LIVERPOOL,WATFORD,H,Ejaria,Coutinho,87,6,1,6,1,0,0,0,0,0,Attacker,Attacker
+34,LIVERPOOL,SOUTHAMPTON,A,Sturridge,Can,78,0,0,0,0,0,0,0,0,0,Attacker,Midfielder
+35,LIVERPOOL,SOUTHAMPTON,A,Origi,Mane,91,0,0,0,0,0,0,0,0,0,Attacker,Attacker
+36,LIVERPOOL,SUNDERLAND,H,Origi,Coutinho,34,0,0,2,0,0,0,1,0,0,Attacker,Attacker
+37,LIVERPOOL,SUNDERLAND,H,Lucas,Firmino ,87,1,0,2,0,0,0,0,0,0,Midfielder,Attacker
+38,LIVERPOOL,SUNDERLAND,H,Woodburn,Wijnaldum,92,2,0,2,0,0,0,0,0,0,Midfielder,Midfielder
+39,LIVERPOOL,BOURNEMOUTH,A,Lallana,Mane,69,3,1,3,4,0,0,0,0,0,Midfielder,Attacker
+40,LIVERPOOL,WEST HAM,H,Klavan,Lovern,46,1,2,2,2,0,0,0,0,0,Defender,Defender
+41,LIVERPOOL,MIDDLESBROUGH,A,Lucas,Lallana,82,3,0,3,0,0,0,0,0,0,Midfielder,Midfielder
+42,LIVERPOOL,MIDDLESBROUGH,A,Ejaria,Wijnaldum,87,3,0,3,0,0,0,0,0,0,Midfielder,Midfielder
+43,LIVERPOOL,MIDDLESBROUGH,A,Trent Arnold,Origi,91,3,0,3,0,0,0,0,0,0,Defender,Attacker
+44,LIVERPOOL,EVERTON,A,Can,Lallana,82,0,0,1,0,0,0,0,0,0,Midfielder,Midfielder
+45,LIVERPOOL,EVERTON,A,Sturridge,Origi,82,0,0,1,0,0,0,0,0,0,Attacker,Attacker
+46,LIVERPOOL,EVERTON,A,Lucas,Mane,98,1,0,1,0,0,0,0,0,0,Midfielder,Attacker
+47,LIVERPOOL,STOKE CITY,H,Can,Lallana,69,3,1,4,1,0,0,0,0,0,Midfielder,Midfielder
+48,LIVERPOOL,STOKE CITY,H,Sturridge,Origi,70,4,1,4,1,0,0,0,0,0,Attacker,Attacker
+49,LIVERPOOL,STOKE CITY,H,Moreno,Firmino ,79,4,1,4,1,0,0,0,0,0,Defender,Attacker
+50,LIVERPOOL,MANCHESTER CITY ,H,Origi,Henderson,64,1,0,1,0,0,0,0,0,0,Attacker,Midfielder
+51,LIVERPOOL,MANCHESTER CITY ,H,Lucas,Mane,89,1,0,1,0,0,0,0,0,0,Midfielder,Attacker
+52,LIVERPOOL,SUNDERLAND,A,Moreno,Milner,46,1,1,2,2,0,0,0,0,0,Defender,Midfielder
+53,LIVERPOOL,SUNDERLAND,A,Origi,Wijnaldum,73,2,1,2,2,0,0,0,0,0,Attacker,Midfielder
+54,LIVERPOOL,SUNDERLAND,A,Lucas,Sturridge,80,2,1,2,2,0,0,0,0,0,Midfielder,Attacker
+55,LIVERPOOL,MANCHESTER UNITED,A,Coutinho,Origi,61,1,0,1,1,0,0,0,0,0,Attacker,Attacker
+56,LIVERPOOL,SWANSEA,H,Sturridge,Coutinho,69,1,2,2,3,0,0,0,0,0,Attacker,Attacker
+57,LIVERPOOL,SWANSEA,H,Origi,Can,70,2,2,2,3,0,0,0,0,0,Attacker,Midfielder
+58,LIVERPOOL,SWANSEA,H,Matip,Wijnaldum,94,2,3,2,3,0,0,0,0,0,Defender,Midfielder
+59,LIVERPOOL,CHELSEA,H,Mane,Coutinho,75,1,1,1,1,0,0,0,0,0,Attacker,Attacker
+60,LIVERPOOL,CHELSEA,H,Origi,Lallana,90,1,1,1,1,0,0,0,0,0,Attacker,Midfielder
+61,LIVERPOOL,HULL CITY,A,Sturridge,Can,67,0,1,0,2,0,0,0,0,0,Attacker,Midfielder
+62,LIVERPOOL,HULL CITY,A,Moreno,Milner,83,0,1,0,2,0,0,0,0,0,Defender,Midfielder
+63,LIVERPOOL,HULL CITY,A,Origi,Lallana,83,0,1,0,2,0,0,0,0,0,Attacker,Midfielder
+64,LIVERPOOL,TOTTENHAM,H,Can,Coutinho,77,2,0,2,0,0,0,0,0,0,Midfielder,Attacker
+65,LIVERPOOL,TOTTENHAM,H,Klavan,Lucas,82,2,0,2,0,0,0,0,0,0,Defender,Midfielder
+66,LIVERPOOL,TOTTENHAM,H,Trent Arnold,Mane,92,2,0,2,0,0,0,0,0,0,Defender,Attacker
+67,LIVERPOOL,LEICESTER,A,Moreno,Mane,66,1,2,1,3,0,0,0,0,0,Defender,Attacker
+68,LIVERPOOL,LEICESTER,A,Origi,Lallana,66,1,2,1,3,0,0,0,0,0,Attacker,Midfielder
+69,LIVERPOOL,LEICESTER,A,Lallana,Lucas,84,1,3,1,3,0,0,0,0,0,Midfielder,Midfielder
+70,LIVERPOOL,BURNLEY,H,Woodburn,Coutinho,73,1,1,2,1,0,0,0,0,0,Midfielder,Attacker
+71,LIVERPOOL,BURNLEY,H,Lucas,Origi,83,2,1,2,1,0,0,0,0,0,Midfielder,Attacker
+72,LIVERPOOL,MANCHESTER CITY ,A,Origi,Coutinho,73,1,1,1,1,0,0,0,0,0,Attacker,Attacker
+73,LIVERPOOL,MANCHESTER CITY ,A,Lucas,Firmino ,89,1,1,1,1,0,0,0,0,0,Midfielder,Attacker
+74,LIVERPOOL,EVERTON,H,Origi,Mane,57,2,1,3,1,0,0,1,0,0,Attacker,Attacker
+75,LIVERPOOL,EVERTON,H,Trent Arnold,Coutinho,74,3,1,3,1,0,0,0,0,0,Defender,Attacker
+76,LIVERPOOL,EVERTON,H,Klavan,Firmino ,90,3,1,3,1,0,0,0,0,0,Defender,Attacker
+77,LIVERPOOL,BOURNEMOUTH,H,Matip,Coutinho,65,2,1,2,2,0,0,0,0,0,Defender,Attacker
+78,LIVERPOOL,STOKE CITY,A,Coutinho,Trent Arnold,46,0,1,2,1,0,0,1,0,0,Attacker,Defender
+79,LIVERPOOL,STOKE CITY,A,Firmino,Woodburn,46,0,1,2,1,0,0,1,0,0,Attacker,Midfielder
+80,LIVERPOOL,STOKE CITY,A,Sturridge,Origi,68,0,1,2,1,0,0,0,0,0,Attacker,Attacker
+81,LIVERPOOL,WEST BROMWICH,A,Sturridge,Origi,82,1,0,1,0,0,0,0,0,0,Attacker,Attacker
+82,LIVERPOOL,WEST BROMWICH,A,Moreno,Coutinho,92,1,0,1,0,0,0,0,0,0,Defender,Attacker
+83,LIVERPOOL,CRYSTAL PALACE,H,Trent Arnold,Lovern,79,1,2,1,2,0,0,0,0,0,Defender,Defender
+84,LIVERPOOL,CRYSTAL PALACE,H,Moreno,Milner,82,1,2,1,2,0,0,0,0,0,Defender,Midfielder
+85,LIVERPOOL,CRYSTAL PALACE,H,Grujic,Clyne,84,1,2,1,2,1,0,0,0,0,Midfielder,Defender
+86,LIVERPOOL,WATFORD,A,Lallana,Coutinho,13,0,0,1,0,0,0,0,0,0,Midfielder,Attacker
+87,LIVERPOOL,WATFORD,A,Sturridge,Origi,84,1,0,1,0,0,0,0,0,0,Attacker,Attacker
+88,LIVERPOOL,WATFORD,A,Klavan,Lallana,87,1,0,1,0,0,0,0,0,0,Defender,Midfielder
+89,LIVERPOOL,SOUTHAMPTON,H,Sturridge,Origi,69,0,0,0,0,0,0,0,0,0,Attacker,Attacker
+90,LIVERPOOL,SOUTHAMPTON,H,Lallana,Lucas,69,0,0,0,0,0,0,0,0,0,Midfielder,Midfielder
+91,LIVERPOOL,SOUTHAMPTON,H,Grujic,Wijnaldum,87,0,0,0,0,0,0,0,0,0,Midfielder,Midfielder
+92,LIVERPOOL,WEST HAM,A,Lucas,Sturridge,87,4,0,4,0,0,0,0,0,0,Midfielder,Attacker
+93,LIVERPOOL,WEST HAM,A,Grujic,Lallana,89,4,0,4,0,0,0,0,0,0,Midfielder,Midfielder
+94,LIVERPOOL,WEST HAM,A,Woodburn,Coutinho,89,4,0,4,0,0,0,0,0,0,Midfielder,Attacker
+95,LIVERPOOL,MIDDLESBROUGH,H,Lucas,Firmino ,79,3,0,3,0,0,0,0,0,0,Midfielder,Attacker
+96,LIVERPOOL,MIDDLESBROUGH,H,Origi,Sturridge,82,3,0,3,0,0,0,0,0,0,Attacker,Attacker
+97,LIVERPOOL,MIDDLESBROUGH,H,Moreno,Milner,80,3,0,3,0,0,0,0,0,0,Defender,Midfielder
